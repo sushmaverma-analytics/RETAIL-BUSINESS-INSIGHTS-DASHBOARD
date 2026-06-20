@@ -57,5 +57,6 @@ conditional Formatting
 # Final Validation
 - Finally, I checked the total number of records and verified that no duplicates or missing values remained.
 # Dashboard Preview
-<img width="1142" height="652" alt="Screenshot 2026-06-14 040118" src="https://github.com/user-attachments/assets/e1e73907-f794-4f80-bd8e-4efcf9ca5aa7" />
+<img width="1202" height="693" alt="Screenshot 2026-06-19 211051" src="https://github.com/user-attachments/assets/16979d3c-10f5-44d6-8211-4d0159b8ab4f" />
+
 
