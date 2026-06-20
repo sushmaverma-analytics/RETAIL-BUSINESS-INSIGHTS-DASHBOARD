@@ -14,7 +14,7 @@
 - Fuel Price
 - Temperature
 - Unemployment
-# Data Cleaning (sql + POWER QUERY)
+# Data Cleaning (SQL+ POWER QUERY)
 - "I used SQL for the initial data cleaning because SQL is optimized for handling large datasets efficiently. Tasks like removing duplicates, handling null values, standardizing text, and validating data are faster and more scalable in SQL. After ensuring the data quality, I imported the cleaned dataset into Power BI, where I focused on data modeling, DAX calculations, and dashboard development.Created a Calendar hierarchy for easier time-based analysis.
 # Data Modeling
 - I followed a Star Schema approach.
@@ -48,6 +48,14 @@ KPI Cards
 Bookmarks and selections
 Web search
 conditional Formatting
+# Business Insights
+- Total of fuel price by store,
+- Min fuel  price by year how store is getting affected and how it works
+- How Total temperature affects year by year
+- how stores, avg fuel price, unemployment, avg temp getting affected by avg CPI  year by year
+- Top retail data analytics stores by avg CPI
 # Final Validation
+- Finally, I checked the total number of records and verified that no duplicates or missing values remained.
+# Dashboard Preview
+<img width="1142" height="652" alt="Screenshot 2026-06-14 040118" src="https://github.com/user-attachments/assets/e1e73907-f794-4f80-bd8e-4efcf9ca5aa7" />
 
-Finally, I checked the total number of records and verified that no duplicates or missing values remained.
